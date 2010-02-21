@@ -1,0 +1,22 @@
+h1. Welcome to Gatecamper
+
+This is Gatecamper, an EVE Online API proxy and cache.
+
+What does this mean from an end-user perspective? Well, by adding a layer between your programs and the EVE Online API server, you can add more stringent security by giving specific applications access to only certain resources. Want to be sure that market app isn't stealing your corporation's starbase information and sending it off to your enemies? Gatecamper can ensure it. And it doesn't just work with desktop apps- hosted apps can use it, too.
+
+Gatecamper is a web application; it is intended to be run on a web server, and used as an alternative API server for your applications. It can be deployed for individuals, corporations or alliances with minimal fuss and simple setup.
+
+h2. Installation and Usage
+
+(coming soon)
+
+h3. Requirements
+
+ * Ruby 1.8.6 or greater (1.9.1 recommended)
+ * Rails 2.3.5
+ * A database server (optional, but recommended)
+ * A small crapload of gems (rake gems:install)
+ * A web server
+ * Somewhere to put it
+ 
+
