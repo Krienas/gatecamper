@@ -1,0 +1,11 @@
+test:
+  namespace: gc
+  servers: localhost:11211
+
+development: 
+  namespace: gc
+  servers: localhost:11211
+
+production:
+  namespace: gc
+  servers: localhost:11211
